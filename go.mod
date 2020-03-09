@@ -1,4 +1,4 @@
-module github.com/jack3rpopov/ginrtsp 
+module github.com/jack3rpopov/ginrtsp
 
 go 1.13
 
